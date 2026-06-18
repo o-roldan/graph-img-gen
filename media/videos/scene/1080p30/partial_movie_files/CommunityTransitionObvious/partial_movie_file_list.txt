@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/uma-dev/Documents/personal/mcic/graph-img-gen/media/videos/scene/1080p30/partial_movie_files/CommunityTransitionObvious/3162306189_4205520711_3205311718.mp4'
-file 'file:/Users/uma-dev/Documents/personal/mcic/graph-img-gen/media/videos/scene/1080p30/partial_movie_files/CommunityTransitionObvious/1770797288_2768844505_2118276392.mp4'
-file 'file:/Users/uma-dev/Documents/personal/mcic/graph-img-gen/media/videos/scene/1080p30/partial_movie_files/CommunityTransitionObvious/1770797288_4240239759_364205915.mp4'
-file 'file:/Users/uma-dev/Documents/personal/mcic/graph-img-gen/media/videos/scene/1080p30/partial_movie_files/CommunityTransitionObvious/1770797288_1165985053_982753739.mp4'

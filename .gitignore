@@ -8,3 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Mac OS
+.DS_Store
+
+# Manim render output (final videos + intermediate frames)
+media/
+
+# Downloaded datasets (regenerate with `uv run python main.py`)
+data/Cora/
